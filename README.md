@@ -1,4 +1,4 @@
-# dns-infos
+# host-info
 Prints name, aliases and IP addresses of a given HOST.
 
 Usage example:
